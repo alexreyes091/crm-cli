@@ -4,7 +4,6 @@ const Layout = () => {
 
     const location = useLocation();
     const urlActual = location.pathname;
-    console.log(location)
 
     return (
         <>

@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Marlon Reyes",
+      "empresa": "Empresa Test",
+      "email": "alexreyes091@gmail.com",
+      "telefono": "32475455",
+      "notas": "Test..!! ..!!",
+      "id": 1
+    },
+    {
+      "nombre": "Alexander Reyes",
+      "empresa": "Empresa Test",
+      "email": "alexreyes091@gmail.com",
+      "telefono": "32475455",
+      "notas": "Test!! ....!!!",
+      "id": 2
+    },
+    {
+      "nombre": "Marlon Chevez",
+      "empresa": "Chevvy",
+      "email": "alexreyes091@hotmail.com",
+      "telefono": "32475455",
+      "notas": "Cliente frecuente...!",
+      "id": 3
+    },
+    {
+      "nombre": "Lesvi Yolivet Paz",
+      "empresa": "Sunset Food Store",
+      "email": "vpaz@sunset.com",
+      "telefono": "32475455",
+      "notas": "",
+      "id": 4
+    }
+  ]
+}
