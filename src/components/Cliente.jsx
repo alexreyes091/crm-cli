@@ -1,7 +1,7 @@
 
 import { useNavigate } from 'react-router-dom';
 
-export const Cliente = ({ cliente }) => {
+export const Cliente = ({ cliente, handleEliminar }) => {
     const navigate =  useNavigate();
     const {nombre, empresa, email, telefono, notas, id} = cliente;
 
@@ -25,8 +25,9 @@ export const Cliente = ({ cliente }) => {
                     className="bg-blue-600 hover:bg-blue-700 block w-full text-white p-2 uppercase font-bold text-xs mt-3"
                 >Editar</button>
                 <button
-                    className="bg-red-600 hover:bg-red-700 block w-full text-white p-2 uppercase font-bold text-xs mt-3"
                     type="button"
+                    onClick={() => handleEliminar(id)}
+                    className="bg-red-600 hover:bg-red-700 block w-full text-white p-2 uppercase font-bold text-xs mt-3"
                 >Eliminar</button>
             </td>
         </tr>

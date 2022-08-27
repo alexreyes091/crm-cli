@@ -1,22 +1,6 @@
 {
   "clientes": [
     {
-      "nombre": "Marlon Reyes",
-      "empresa": "Empresa Test",
-      "email": "alexreyes091@gmail.com",
-      "telefono": "32475455",
-      "notas": "Test..!! ..!!",
-      "id": 1
-    },
-    {
-      "nombre": "Alexander Reyes",
-      "empresa": "Empresa Test",
-      "email": "alexreyes091@gmail.com",
-      "telefono": "32475455",
-      "notas": "Test!! ....!!!",
-      "id": 2
-    },
-    {
       "nombre": "Marlon Chevez",
       "empresa": "Chevvy",
       "email": "alexreyes091@hotmail.com",
@@ -31,6 +15,14 @@
       "telefono": "32475455",
       "notas": "",
       "id": 4
+    },
+    {
+      "nombre": "William Rivera",
+      "empresa": "Clover 20x",
+      "email": "correo@correo.hn",
+      "telefono": "32475455",
+      "notas": "Una nueva nota mas avanzada pero basica.",
+      "id": 5
     }
   ]
 }
