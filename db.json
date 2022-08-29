@@ -1,14 +1,6 @@
 {
   "clientes": [
     {
-      "nombre": "Marlon Chevez",
-      "empresa": "Chevvy",
-      "email": "alexreyes091@hotmail.com",
-      "telefono": "32475455",
-      "notas": "Cliente frecuente...!",
-      "id": 3
-    },
-    {
       "nombre": "Lesvi Yolivet Paz",
       "empresa": "Sunset Food Store",
       "email": "vpaz@sunset.com",
